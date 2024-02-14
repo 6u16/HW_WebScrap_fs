@@ -1,0 +1,30 @@
+[
+   {
+      "link": "https://spb.hh.ru/vacancy/93239877?query=python&hhtmFrom=vacancy_search_list",
+      "salary": "120.000 – 200.000 ₽",
+      "co_name": "ООО Инспектор Клауд",
+      "city": "Москва",
+      "l_kw_pl": "Django"
+   },
+   {
+      "link": "https://spb.hh.ru/vacancy/91676650?query=python&hhtmFrom=vacancy_search_list",
+      "salary": null,
+      "co_name": "UBIC",
+      "city": "Москва, Новокузнецкая и еще 2",
+      "l_kw_pl": "Django"
+   },
+   {
+      "link": "https://spb.hh.ru/vacancy/92841279?query=python&hhtmFrom=vacancy_search_list",
+      "salary": "100.000 – 150.000 ₽",
+      "co_name": "АО НИИ МАСШТАБ",
+      "city": "Санкт-Петербург",
+      "l_kw_pl": "Django"
+   },
+   {
+      "link": "https://spb.hh.ru/vacancy/92841279?query=python&hhtmFrom=vacancy_search_list",
+      "salary": "100.000 – 150.000 ₽",
+      "co_name": "АО НИИ МАСШТАБ",
+      "city": "Санкт-Петербург",
+      "l_kw_pl": "Flask"
+   }
+]
